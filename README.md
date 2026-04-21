@@ -2,15 +2,15 @@
 
 ### NAME :
 
-Your Name
+ADITYA BASAVARAJ JAMBAGI
 
 ### SRN :
 
-Your SRN
+PES2UG24CS030
 
 ### SECTION :
 
-Your Section
+A
 
 ---
 
